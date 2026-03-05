@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Pedro Lucas Moraes dos Santos
 
-Studying a Bachelor's degree in Software Engineering (2th semester) at the International University Center (UNINTER), I'm passionate about technology, movies, books, and thinking outside the box to create applications and solutions through code.
+Studying a Bachelor's degree in Software Engineering (3th semester) at the International University Center (UNINTER), I'm passionate about technology, movies, books, and thinking outside the box to create applications and solutions through code.
 
 ### Stacks
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,git,react)](https://skillicons.dev)
