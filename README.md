@@ -12,6 +12,3 @@ Studying a Bachelor's degree in Software Engineering (3th semester) at the Inter
 ### Contact
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedr-lss/)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](pedzdev01@gmail.com)
-
-#
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedzmrx&show_icons=true&theme=tokyonight)
