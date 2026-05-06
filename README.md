@@ -3,7 +3,7 @@
 Studying a Bachelor's degree in Software Engineering (3th semester) at the International University Center (UNINTER), I'm passionate about technology, movies, books, and thinking outside the box to create applications and solutions through code.
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,git,react,docker,nest,next,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,git,react,docker,nest,next,prisma,postgres)](https://skillicons.dev)
 
 ### Languages
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png) Native Portuguese    
